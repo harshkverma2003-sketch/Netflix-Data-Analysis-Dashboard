@@ -1,6 +1,3 @@
-# Netflix-Data-Analysis-Dashboard
-This project analyzes Movies &amp; TV Shows distribution by year, country, genre, and rating with interactive filters.
-
 # Netflix Data Analysis Dashboard (Tableau Project)
 
 ##  Project Overview
